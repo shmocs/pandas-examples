@@ -4,6 +4,8 @@ A beginner tutorial on the Python Pandas library
 ### ING bank monthly statement analysis.
 Have your monthly statements exported in xls files from HomeBank.
 <img src='./images/ing_monthly_statement.png'>
+
+
 Put all of them into ./data/bank folder:
 <img src='./images/ing_xls_exports.png'>
 
